@@ -7,7 +7,7 @@
 5. Data Interpretation
 
 # 1.General Info
-Created a simple machine learning project which is used to predict whether a women has diabetes or not, The nodel was trained and validated  using PIMA Indian Diabetes Dataset. The project was created using OSEMN(Obtaing Scrubbing Exploring Modeling Interpretation) pipeline.
+Created a simple machine learning project which is used to predict whether a women has diabetes or not, The model was trained and validated  using PIMA Indian Diabetes Dataset. The project was created using OSEMN(Obtaing Scrubbing Exploring Modeling Interpretation) pipeline.
 
 # 2. Data EDA
 Performed Basic EDA and statistical analysis to get a better understanding of the minimum & maximum values,missing values, mean & standard deviation value and outlier values of features used in the dataset. Used data visualisations such as histogram, scatter plot and heatmap to get a better understanding of the features and the correlation amongst the features.
