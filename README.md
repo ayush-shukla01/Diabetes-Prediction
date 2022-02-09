@@ -13,13 +13,13 @@ Created a simple machine learning project which is used to predict whether a wom
 Performed Basic EDA and statistical analysis to get a better understanding of the minimum & maximum values,missing values, mean & standard deviation value and outlier values of features used in the dataset. Used data visualisations such as histogram, scatter plot and heatmap to get a better understanding of the features and the correlation amongst the features.
 
 # 3. Data preprocessing
-Used Imputation to handle missing values. Standard Scaler method was used to standardise and scale the values of all the features to same level. Finally, the data was split using train test split method for training and validating the ml models of different algorithms.
+Used Imputation to handle missing values. Standard Scaler method was used to standardise and scale the values acrross all features to same level. Finally, the data was split using train test split method for training and validating the ml models of different algorithms.
 
 # 4. Data Modeling 
 The preprocessed dataset was used to train and validate the following machine learning algorithm KNN classification, Decision Tree classifier, Random Forest classifier and logistic regression.
 
 # 5. Data Interpretation
-Since, the KNN algorithm had the best accuracy. The results for the KNN model were visualized to find the best K value. Used confusion matrix and classification report to find the precision, recall and f-1 score of the  the model. Finally, gird search method was used for hyperparameter tuning of KNN model.
+Since, the KNN classification algorithm had the best accuracy. The results for the KNN model were visualized to find the best K value. Used confusion matrix and classification report to find the precision, recall and f-1 score of the  the model. Finally, gird search method was used for hyperparameter tuning of KNN model.
 
 
 
